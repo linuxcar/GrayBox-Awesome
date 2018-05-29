@@ -6,7 +6,7 @@ A collection of hacking / penetration / Malware Source resources to make you bet
  	<br>
 </h1>
 
-# Awesome Hacking Resources ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking-red.svg) ![Awesome community](https://img.shields.io/badge/awesome-community-green.svg)
+# Awesome Hacking Resources ![Awesome Hacking]
 
 A collection of hacking / penetration testing resources to make you better!
 
